@@ -1,1 +1,2 @@
-Senior Freshman Engineering Buggy Project. Gold medal awarded project.
+## Senior Freshman Engineering Buggy Project. 
+Goal: Build autonomous vehicles cablable of interacting with sorroundings. Gold medal awarded project.
