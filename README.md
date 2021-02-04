@@ -1,5 +1,5 @@
 ## Senior Freshman Engineering Buggy Project. 
-Goal: Build autonomous vehicles cablable of interacting with sorroundings. Gold medal awarded project.
+Goal: Build autonomous vehicles capable of interacting with surroundings. Gold medal awarded project.
 
 This report will cover the design and implementation of a pair of autonomous vehicles (buggies),
 controlled by a remote supervisor, under a specific set of rules. We will cover the technical aspects
